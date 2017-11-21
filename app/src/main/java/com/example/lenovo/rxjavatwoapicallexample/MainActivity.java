@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         Body body = new Body();
         body.setAmountToCheck("11");
-        body.setToken("241785278");
+//        body.setToken("241785278");
 
 
         RequestBody requestBody = new RequestBody("x5gb5smmaa4d9n4jf8ghnkc9v45bppz6", "au-accounts", "Xaw287-3", "balance");
